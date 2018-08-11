@@ -1,4 +1,4 @@
-console.log('Hello git')
+console.log('Hello world')
 const add = (a, b) => {
   return a + b
 }
